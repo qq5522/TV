@@ -2,10 +2,10 @@
 {
     "sites": [
         {
-            "key": "线路唯一标识",
-            "name": "显示在app的名字",
-            "type": 1或0或4,
-            "api": "类型为1或0或4的采集源",
+            "key": "66",
+            "name": "66",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
