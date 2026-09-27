@@ -1,0 +1,27 @@
+
+{
+    "sites": [
+        {
+            "key": "线路唯一标识",
+            "name": "显示在app的名字",
+            "type": 1或0或4,
+            "api": "类型为1或0或4的采集源",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "xxxx",
+               
+            ]
+        },
+{
+            "key": "线路唯一标识",
+            "name": "显示在app的名字",
+            "type": 3,
+            "api": "源的js或者py",
+            "ext": {
+                "xxx"
+            }
+        }
+]
+}
