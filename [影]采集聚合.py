@@ -14,7 +14,7 @@ class Spider(Spider):
         's2': {'name': '🧸AV电影1', 'api': 'https://slapibf.com/api.php/provide/vod/'},
         's3': {'name': '🧸AV电影2', 'api': 'https://api.ddapi.cc/api.php/provide/vod/'},
         's4': {'name': '📺AV电影3', 'api': 'https://www.heiliaozyapi.com/api.php/provide/vod/'},
-        's5': {'name': '📺大众资源', 'api': 'https://cdn.dzzyapi.com/api.php/provide/vod/'},
+        's5': {'name': '📺大众资源', 'api': 'https://www.xrbsp.com/api/json.php'},
     }
 
     headers = {
